@@ -56,9 +56,13 @@ https://docs.google.com/presentation/d/1eFXYWLJUvHBoa-gMD-PLJpersMlVM0UNHtFXrjoH
 ---
 # References
  https://www.edureka.co/blog/what-is-selenium/#SeleniumQTPRFT
+ 
  https://www.test-institute.org/Automated_Software_Testing.php
+ 
  https://www.edureka.co/blog/what-is-selenium/
+ 
  https://www.cabotsolutions.com/2016/12/continuous-integration-testing-using-selenium/
+ 
  https://www.youtube.com/watch?v=cNKi0Pl5wbc&t=54s
  
 
