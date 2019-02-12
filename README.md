@@ -44,7 +44,7 @@ https://docs.google.com/presentation/d/1eFXYWLJUvHBoa-gMD-PLJpersMlVM0UNHtFXrjoH
 ![code](https://github.com/rajv11/ws03-selenium/blob/master/Images/4.code.PNG)
 
 5. Run the test using Run All Test buuton 
-![Run](https://github.com/rajv11/ws03-selenium/blob/master/Images/5.RunBuutom.PNG)
+![Run](https://github.com/rajv11/ws03-selenium/blob/master/Images/5.RunButtom.PNG)
 
 6. This runs the test which automatically opens the chrome browser and test the application.
 ![Website](https://github.com/rajv11/ws03-selenium/blob/master/Images/6.site%20page.PNG)
